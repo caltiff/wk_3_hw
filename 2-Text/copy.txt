@@ -1,0 +1,58 @@
+Full site:
+Body size: 18px with 1.2 line height
+Intro paragraph size: 26px with 1.15 line height
+Heading size: 90px with 1 line height
+Width of page: 100%
+
+Mobile site:
+Body size: 16px with 1.2 line height
+Intro paragraph size: 16px with 1.2 line height
+Heading size: 30px with 1.1 line height
+Width of page: Fluid with 25px padding left and right
+
+Font: Work Sans
+
+Colors:
+Green: #2F6A49
+Pink: #FFB6C4
+Orange: #F95C00
+Yellow: #FFD400
+Beige: #FFD7B3
+
+-----
+
+about
+food
+location
+contact
+
+Master the art of hand-crafted food
+
+About
+
+So you want to dazzle your friends at a dinner party? Or treat yourself to some delicious grub? Don’t worry, we’ve got it covered. Lola’s is a cookery school in New York City, offering students the chance to learn to cook healthy, restaurant-quality food.
+
+Food
+
+Whether you’re vegan, vegetarian, pescetarian, flexitarian, gluten-free, lactose intolerant, sugar-free or you eat just about anything, we have culinary classes for you! Specialist diet or not.
+
+“My friends couldn’t believe I’d cooked such amazing food. I’ve just joined a supper club too!”
+
+Where to find us
+
+We’re located in the heart of Brooklyn. Come and say hi if you’re passing by!
+
+Opening Hours
+
+Tuesday – Thursday  11:00 – 20:00
+
+Saturday – Sunday  10:00 – 18:00
+
+As loved by
+
+Airbnb
+Forbes
+Meetup
+The New York Times
+
+Copyright © 2017
